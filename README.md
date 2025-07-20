@@ -8,15 +8,6 @@
 
 ---
 
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marouan-Echi&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouan-Echi&layout=compact&theme=tokyonight" width="300"/>
-</p>
-
----
-
 ###
 <div align="left">
 <h2>Languages and Tools:</h2>
