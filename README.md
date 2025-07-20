@@ -4,7 +4,7 @@
 
 
 ###
-
+<h2>Languages and Tools:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -41,8 +41,6 @@
 </div>
 
 ###
-## 📊 GitHub Stats
-
 ![Marouan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marouan-Echi&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouan-Echi&layout=compact&theme=tokyonight)
