@@ -2,6 +2,20 @@
 
 ###
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Marouan-Echi&theme=onedark&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marouan-Echi&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouan-Echi&layout=compact&theme=tokyonight" width="300"/>
+</p>
+
+---
 
 ###
 <div align="left">
