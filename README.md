@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello ! Je suis Marouan<br><br>🎓 Étudiant ingénieur en systèmes embarqués  <br>🔭 Passionné par l'IoT, le développement embarqué et les interfaces tactiles</h2>
+<h2 align="center">Hi 👋, I'm Marouan Echi <br><br>🎓 Embedded systems and lot engineering student <br>
 
 ###
 
