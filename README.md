@@ -39,14 +39,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-![MultiLanguage](https://img.shields.io/badge/MultiLanguage-Rainbow%20Lang%20User-blueviolet)
-![Commits](https://img.shields.io/badge/Commits-Hyper%20Committer-brightgreen)
-![Followers](https://img.shields.io/badge/Followers-Active%20User-8A2BE2)
-![Repositories](https://img.shields.io/badge/Repositories-Hyper%20Repo%20Creator-blue)
-![Stars](https://img.shields.io/badge/Stars-You%20are%20a%20Star-gold)
 
 ###
-![Marouan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marouan-Echi&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouan-Echi&layout=compact&theme=tokyonight)
+![Marouan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marouan-Echi&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouan-Echi&layout=compact&theme=tokyonight)
 
