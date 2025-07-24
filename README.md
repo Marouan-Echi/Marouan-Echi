@@ -47,5 +47,6 @@
 </div>
 
 ###
-![Marouan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marouan-Echi&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouan-Echi&layout=compact&theme=tokyonight)
+![Marouan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marouan-Echi&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouan-Echi&layout=compact&theme=tokyonight)
 
